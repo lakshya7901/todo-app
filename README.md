@@ -9,7 +9,7 @@ It allows users to **add, update, and delete tasks** with an easy-to-use interfa
 
 Clone the repository and install dependencies for both frontend and backend:
 
-```bash
+bash
 git clone https://github.com/yourusername/mern-todo-app.git
 cd mern-todo-app
 
