@@ -25,3 +25,7 @@ Click Delete to remove a task.
 Tasks are stored in MongoDB and updated in real time.
 
 <img width="3199" height="1828" alt="Screenshot 2025-10-27 212859" src="https://github.com/user-attachments/assets/64115faf-b5d1-4dd5-ad31-2a618775ebaa" />
+
+<img width="3199" height="1827" alt="Screenshot 2025-10-27 212921" src="https://github.com/user-attachments/assets/f21f752b-8150-4712-8d81-77b0d5c7b5ea" />
+  
+<img width="3199" height="1828" alt="Screenshot 2025-10-27 212938" src="https://github.com/user-attachments/assets/60478a0a-c76c-4884-b10e-a56eed768620" />
